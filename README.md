@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 [![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=Knight174)]()
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Knight174&layout=compact)](https://github.com/Knight174/github-readme-stats)
 <!--
 **Knight174/Knight174** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
