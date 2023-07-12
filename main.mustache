@@ -55,7 +55,7 @@
 </ul>
 
 <p>
-  Currently, the weather is: <b><i class="qi-104-fill"></i> 32°C, feels like 36, <i>阴</i></b>
+  Currently, the weather is: <b><i class="qi-{{weather_icon}}-fill"></i> {{city_temperature}}°C, feels like {{feelsLike}}, <i>{{city_weather}}</i></b>
 </p>
 
 <h3>Where to find me</h3>
@@ -71,11 +71,12 @@
 </a>
 </p>
 
----
+------------
 
 <p align="center">
-This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: 7月12日星期三 GMT+8 20:25
+This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: {{refresh_date}}
 </p>
+
 
 <!-- <p align="center">
   <img
