@@ -42,10 +42,9 @@ async function setWeatherInformation() {
   )
     .then((r) => r.json())
     .then((r) => {
-      const { temp, text, feelsLike, icon } = r.now;
+      const { temp, text, feelsLike } = r.now;
       DATA.city_temperature = temp; // 温度
       DATA.feelsLike = feelsLike; // 体感温度
-      DATA.weather_icon = icon; // 天气图标
       DATA.city_weather = text; // 天气描述
     });
 }
