@@ -17,7 +17,7 @@ jobs:
       - name: setup node
         uses: actions/setup-node@v1
         with:
-          node-version: "13.x"
+          node-version: "18.x"
       - name: cache
         uses: actions/cache@v1
         with:
@@ -33,3 +33,4 @@ jobs:
         uses: mikeal/publish-to-github-action@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BRANCH_NAME: "main"
