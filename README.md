@@ -66,7 +66,7 @@
   <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
 </a>
 <a href="https://juejin.cn/user/2154698521972423" target="_blank">
-  <img alt="juejin" src="https://img.shields.io/badge/掘金-%230077B5.svg?&style=for-the-badge&logoColor=white" />
+  <img alt="juejin" src="https://img.shields.io/badge/稀土掘金-%230077B5.svg?&style=for-the-badge&logoColor=white" />
 </a>
 <a href="https://ericchenart.com" target="_blank">
   <img alt="ericchenart.com" src="https://img.shields.io/badge/ericchenart.com-%A5F9FBA5.svg?&style=for-the-badge&logoColor=white" />
@@ -76,7 +76,7 @@
 ------------
 
 <p align="center">
-This <i>README</i> file is generated <b>every 1 hour</b>!</br>Last refresh: 7月17日星期一 GMT+8 16:51
+This <i>README</i> file is generated <b>every 1 hour</b>!</br>Last refresh: 7月17日星期一 GMT+8 16:53
 </p>
 
 
