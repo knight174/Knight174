@@ -1,7 +1,7 @@
 <h1>Hey! Welcome To My GitHub!</h1>
 
-<p>I'm Eric, Frontend developer from <b>China</b>, currently living in <b>Shanghai, China</b>. </p>
-<p>I'm looking for a new job.</p>
+<p>I am Eric, a Frontend developer from <b>China</b>, currently based in <b>Shanghai</b>.</p>
+<p>I am actively seeking new job opportunities. If you are interested in my profile, please feel free to reach out to me.</p>
 
 <h3>Things I code with</h3>
 <p>
@@ -57,7 +57,7 @@
 </ul>
 
 <p>
-  Currently, the weather is: <b>32°C, feels like 34°C, <i>多云</i></b>
+  Currently, the weather is: <b>32°C, feels like 35°C, <i>多云</i></b>
 </p>
 
 <h3>Where to find me</h3>
@@ -76,7 +76,7 @@
 ------------
 
 <p align="center">
-This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: 7月17日星期一 GMT+8 14:12
+This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: 7月17日星期一 GMT+8 16:49
 </p>
 
 
