@@ -1,7 +1,7 @@
 <h1>Hey! Welcome To My GitHub!</h1>
 
 <p>I am Eric, a Frontend developer from <b>China</b>, currently based in <b>Shanghai</b>.</p>
-<p>I am actively seeking new job opportunities. If you are interested in my profile, please feel free to reach out to me.</p>
+<p>I am actively seeking new job opportunities. If you are interested in my profile, please feel free to reach out to me. 📫 eric@ericchenart.com</p>
 
 <h3>Things I code with</h3>
 <p>
@@ -68,7 +68,6 @@
 </p>
 
 <h3>Where to find me</h3>
-<p>You can contact me by email: eric@ericchenart.com</p>
 <p>
 <a href="https://github.com/Knight174" target="_blank">
   <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
@@ -81,11 +80,12 @@
 </a>
 </p>
 
----
+------------
 
 <p align="center">
-This <i>README</i> file is generated <b>every 1 hour</b>!</br>Last refresh: 7月26日星期三 GMT+8 14:48
+This <i>README</i> file is generated <b>every 1 hour</b>!</br>Last refresh: 7月26日星期三 GMT+8 14:53
 </p>
+
 
 <!-- <p align="center">
   <img
