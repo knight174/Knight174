@@ -35,6 +35,11 @@
 <h3>My latest posts</h3>
 <ul>
   <li>
+    <a href="https://juejin.cn/post/7263363148954845239" target="_blank">
+      <b>前端工程师也应该了解的 docker compose</b>
+    </a>
+  </li>
+  <li>
     <a href="https://medium.com/@knight174/docker-what-frontend-engineers-should-know-1dabab623e41" target="_blank">
       <b>Docker: What Frontend Engineers Should Know</b>
     </a>
@@ -83,7 +88,7 @@
 ------------
 
 <p align="center">
-This <i>README</i> file is generated <b>every 1 hour</b>!</br>Last refresh: 8月9日星期三 GMT+8 23:10
+This <i>README</i> file is generated <b>every 1 hour</b>!</br>Last refresh: 8月9日星期三 GMT+8 23:57
 </p>
 
 
