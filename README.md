@@ -61,15 +61,15 @@
   </li>
 </ul>
 
-<h3>Contributions calendar in <a href="https://gitee.com/hp-chenpc" target="_blank">Gitee</a></h3>
+<!-- <h3>Contributions calendar in <a href="https://gitee.com/hp-chenpc" target="_blank">Gitee</a></h3>
 <p>
   <img alt="gitee-2023" src="./images/gitee-2023.png" />
   <img alt="gitee-2022" src="./images/gitee-2022.png" />
   <img alt="gitee-2021" src="./images/gitee-2021.png" />
-</p>
+</p> -->
 
 <p>
-  Currently, the weather is: <b>23°C, feels like 22°C, <i>多云</i></b>
+  Currently, the weather is: <b>23°C, feels like 24°C, <i>阴</i></b>
 </p>
 
 <h3>Where to find me</h3>
@@ -80,15 +80,12 @@
 <a href="https://juejin.cn/user/2154698521972423" target="_blank">
   <img alt="juejin" src="https://img.shields.io/badge/稀土掘金-%230077B5.svg?&style=for-the-badge&logoColor=white" />
 </a>
-<a href="https://ericchenart.com" target="_blank">
-  <img alt="ericchenart.com" src="https://img.shields.io/badge/ericchenart.com-%A5F9FBA5.svg?&style=for-the-badge&logoColor=white" />
-</a>
 </p>
 
 ------------
 
 <p align="center">
-This <i>README</i> file is generated <b>every 1 hour</b>!</br>Last refresh: 10月10日星期二 GMT+8 11:09
+This <i>README</i> file is generated <b>every 1 hour</b>!</br>Last refresh: 10月10日星期二 GMT+8 11:51
 </p>
 
 
