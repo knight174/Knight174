@@ -69,7 +69,7 @@
 </p> -->
 
 <p>
-  Currently, the weather is: <b>12°C, feels like 10°C, <i>多云</i></b>
+  Currently, the weather is: <b>13°C, feels like 12°C, <i>多云</i></b>
 </p>
 
 <h3>Where to find me</h3>
@@ -85,7 +85,7 @@
 ------------
 
 <p align="center">
-This <i>README</i> file is generated <b>every 1 hour</b>!</br>Last refresh: 1月5日星期五 GMT+8 12:11
+This <i>README</i> file is generated <b>every 1 hour</b>!</br>Last refresh: 1月5日星期五 GMT+8 13:09
 </p>
 
 
