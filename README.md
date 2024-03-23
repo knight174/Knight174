@@ -1,7 +1,7 @@
 <h1>Hey! Welcome To My GitHub!</h1>
 
 <p>I am Eric, a Frontend developer from <b>China</b>, currently based in <b>Shanghai</b>.</p>
-<p>I am actively seeking new job opportunities. If you are interested in my profile, please feel free to reach out to me. 📫 eric@ericchenart.com</p>
+<p>I am actively seeking new job opportunities. If you are interested in my profile, please feel free to reach out to me. 📫 cpc4253@163.com</p>
 
 <h3>Things I code with</h3>
 <p>
