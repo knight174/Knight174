@@ -32,13 +32,13 @@
   <img alt="figma" src="https://img.shields.io/badge/-Figma-2C2D33?style=flat-square&logo=figma&logoColor=white" />
 </p>
 
-<p>
+<!-- <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=knight174&count_private=true&show_icons=true" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=knight174" />
-</p>
+</p> -->
 
 <p>
-  Currently, the weather is: <b>22°C, feels like 21°C, <i>晴</i></b>
+  Currently, the weather is: <b>23°C, feels like 23°C, <i>晴</i></b>
 </p>
 
 <h3>Where to find me</h3>
@@ -54,7 +54,7 @@
 ------------
 
 <p align="center">
-This <i>README</i> file is generated <b>every 1 hour</b>!</br>Last refresh: 5月9日星期四 GMT+8 10:55
+This <i>README</i> file is generated <b>every 1 hour</b>!</br>Last refresh: 5月9日星期四 GMT+8 11:01
 </p>
 
 
