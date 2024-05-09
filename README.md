@@ -1,7 +1,7 @@
 <h1>Hey! Welcome To My GitHub!</h1>
 
 <p>I am Eric, a Frontend developer from <b>China</b>, currently based in <b>Shanghai</b>.</p>
-<p>I am actively seeking new job opportunities. If you are interested in my profile, please feel free to reach out to me. 📫 cpc4253@163.com</p>
+<p>I am actively seeking new job opportunities. If you are interested in my profile, please feel free to reach out to me. 📫 contact@miaoosi.com</p>
 
 <h3>Things I code with</h3>
 <p>
@@ -32,42 +32,6 @@
   <img alt="figma" src="https://img.shields.io/badge/-Figma-2C2D33?style=flat-square&logo=figma&logoColor=white" />
 </p>
 
-<h3>My latest posts</h3>
-<ul>
-  <li>
-    <a href="https://juejin.cn/post/7263363148954845239" target="_blank">
-      <b>前端工程师也应该了解的 docker compose</b>
-    </a>
-  </li>
-  <li>
-    <a href="https://medium.com/@knight174/docker-what-frontend-engineers-should-know-1dabab623e41" target="_blank">
-      <b>Docker: What Frontend Engineers Should Know</b>
-    </a>
-  </li>
-  <li>
-    <a href="https://juejin.cn/post/7250029395023544376" target="_blank">
-      <b>前端工程师也应该了解的docker</b>
-    </a>
-  </li>
-  <li>
-    <a href="https://juejin.cn/post/7243342597001855033" target="_blank">
-      <b>Ruby on Rails 快速入门</b>
-    </a>
-  </li>
-  <li>
-    <a href="https://juejin.cn/post/7238604003600138296" target="_blank">
-      <b>浅谈 ChatGPT —— 现代巴别塔</b>
-    </a>
-  </li>
-</ul>
-
-<!-- <h3>Contributions calendar in <a href="https://gitee.com/hp-chenpc" target="_blank">Gitee</a></h3>
-<p>
-  <img alt="gitee-2023" src="./images/gitee-2023.png" />
-  <img alt="gitee-2022" src="./images/gitee-2022.png" />
-  <img alt="gitee-2021" src="./images/gitee-2021.png" />
-</p> -->
-
 <p>
   Currently, the weather is: <b>22°C, feels like 21°C, <i>晴</i></b>
 </p>
@@ -85,7 +49,7 @@
 ------------
 
 <p align="center">
-This <i>README</i> file is generated <b>every 1 hour</b>!</br>Last refresh: 5月9日星期四 GMT+8 10:24
+This <i>README</i> file is generated <b>every 1 hour</b>!</br>Last refresh: 5月9日星期四 GMT+8 10:28
 </p>
 
 
