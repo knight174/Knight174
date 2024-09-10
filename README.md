@@ -25,6 +25,7 @@
   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-7fb901?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-2f2f2f?style=flat-square&logo=Next.js&logoColor=white" />
   <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+  <img alt="NestJS" src="https://img.shields.io/badge/-NestJS-ea2845?style=flat-square&logo=NestJS&logoColor=white" />
   <img alt="Ruby" src="https://img.shields.io/badge/-Ruby-ab1201?style=flat-square&logo=ruby&logoColor=white" />
   <img alt="postgresql" src="https://img.shields.io/badge/-PostgreSQL-326593?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="prisma" src="https://img.shields.io/badge/-Prisma-4C51BE?style=flat-square&logo=prisma&logoColor=white" />
@@ -32,42 +33,13 @@
   <img alt="figma" src="https://img.shields.io/badge/-Figma-2C2D33?style=flat-square&logo=figma&logoColor=white" />
 </p>
 
-<!-- <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=knight174&count_private=true&show_icons=true" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=knight174" />
-</p> -->
-
 <p>
   Currently, the weather is: <b>30°C, feels like 34°C, <i>阴</i></b>
-</p>
-
-<h3>Where to find me</h3>
-<p>
-<a href="https://github.com/Knight174" target="_blank">
-  <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
-</a>
-<a href="https://juejin.cn/user/2154698521972423" target="_blank">
-  <img alt="juejin" src="https://img.shields.io/badge/稀土掘金-%230077B5.svg?&style=for-the-badge&logoColor=white" />
-</a>
 </p>
 
 ------------
 
 <p align="center">
-This <i>README</i> file is generated <b>every 1 hour</b>!</br>Last refresh: 9月10日星期二 GMT+8 11:13
+This <i>README</i> file is generated <b>every 1 hour</b>!</br>Last refresh: 9月10日星期二 GMT+8 11:20
 </p>
 
-
-<!-- <p align="center">
-  <img
-    src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg"
-  />
-  <img
-    alt="Stars"
-    src="https://img.shields.io/github/stars/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"
-  />
-  <img
-    alt="Forks"
-    src="https://img.shields.io/github/forks/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"
-  />
-</p> -->
