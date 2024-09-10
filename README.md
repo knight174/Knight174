@@ -1,6 +1,6 @@
 <h1>Hey! Welcome To My GitHub!</h1>
 
-<p>I am Eric, a Frontend developer from <b>China</b>, currently based in <b>Shanghai</b>.</p>
+<p>I am Eric Chaos, a Frontend developer from <b>China</b>, currently based in <b>Shanghai</b>.</p>
 <p>I am actively seeking new job opportunities. If you are interested in my profile, please feel free to reach out to me. 📫 contact@miaoosi.com</p>
 
 <h3>Things I code with</h3>
@@ -40,6 +40,6 @@
 ------------
 
 <p align="center">
-This <i>README</i> file is generated <b>every 1 hour</b>!</br>Last refresh: 9月10日星期二 GMT+8 11:20
+This <i>README</i> file is generated <b>every 1 hour</b>!</br>Last refresh: 9月10日星期二 GMT+8 11:21
 </p>
 
