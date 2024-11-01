@@ -38,7 +38,7 @@ function generateReadMe() {
 // 获取天气信息
 async function setWeatherInformation() {
   await fetch(
-    `https://devapi.qweather.com/v7/weather/now?location=101020100&key=${process.env.OPEN_WEATHER_MAP_KEY}`
+    `https://devapi.qweather.com/v7/weather/now?location=101280601&key=${process.env.OPEN_WEATHER_MAP_KEY}`
   )
     .then((r) => r.json())
     .then((r) => {
