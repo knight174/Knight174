@@ -34,12 +34,12 @@
 </p>
 
 <p>
-  Currently, the weather is: <b>15°C, feels like 13°C, <i>阴</i></b>
+  Currently, the weather is: <b>14°C, feels like 13°C, <i>阴</i></b>
 </p>
 
 ------------
 
 <p align="center">
-This <i>README</i> file is generated <b>every 1 hour</b>!</br>Last refresh: 11月30日星期六 GMT+8 03:10
+This <i>README</i> file is generated <b>every 1 hour</b>!</br>Last refresh: 11月30日星期六 GMT+8 04:13
 </p>
 
