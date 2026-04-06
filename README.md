@@ -40,6 +40,6 @@
 ------------
 
 <p align="center">
-This <i>README</i> file is generated <b>every 1 hour</b>!</br>Last refresh: 4月7日星期二 GMT+8 06:30
+This <i>README</i> file is generated <b>every 1 hour</b>!</br>Last refresh: 4月7日星期二 GMT+8 07:30
 </p>
 
